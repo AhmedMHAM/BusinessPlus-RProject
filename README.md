@@ -8,7 +8,6 @@ ________________________________________________________________________________
 
 Inroduction to RProject ?
 
-
 1. Use the models of predict financial failure companies - in our study we are using ten models .
 
 2- Applying models of failure to companies to be studied during the previous several years.
