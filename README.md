@@ -3,7 +3,7 @@
 
 What is RProject?
 
-Predict the failure of companies financially using the use of data mining techniques.
+Predict the failure of companies financially,using data mining techniques.
 ____________________________________________________________________________________
 
 Inroduction to RProject ?
@@ -30,3 +30,6 @@ https://businessplusrproject.shinyapps.io/rproject/
 ______________________________________________________________________________________
 
 Roadmap:
+1-
+2-
+3-
