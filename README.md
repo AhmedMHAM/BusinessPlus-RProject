@@ -17,17 +17,19 @@ A-Score.....)
 3- Preparing the database for the companies to be studied.
 
 4 - Using the R language and classification model in predicting the failure of the company financially or not.
+_________________________________________________________________________________________
+Tools :
 
-5- using shinyapps for developing .
++++++++
 
+1-R language
 
-_____________________________________________________________________________________
+2 -shinyapps_____________________________________________________________________________________
 
 Project Link:
 
-https://businessplusrproject.shinyapps.io/rproject/
-
-
+htt
+ps://businessplusrproject.shinyapps.io/rproject/
 ______________________________________________________________________________________
 
 Roadmap:
