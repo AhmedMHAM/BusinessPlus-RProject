@@ -29,8 +29,8 @@ ________________________________________________________________________________
 
 Project Link:
 
-htt
-ps://businessplusrproject.shinyapps.io/rproject/
+https://businessplusrproject.shinyapps.io/rproject/
+
 ______________________________________________________________________________________
 
 Roadmap:
