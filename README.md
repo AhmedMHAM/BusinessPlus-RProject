@@ -14,7 +14,7 @@ Inroduction to RProject ?
 
 3- Preparing the database for the companies to be studied.
 
-4 - Using the language R and use of classification in predicting the failure of the company financially or not.
+4 - Using the R language and classification model in predicting the failure of the company financially or not.
 
 5- using shinyapps for developing .
 
